@@ -4199,7 +4199,7 @@ input, select, textarea {
 			-ms-flex-shrink: 1;
 			flex-shrink: 1;
 			padding: 4rem 4rem 2rem 4rem ;
-			border-left: solid 2px #e2e2e2;
+			border-left: solid 2px #eeeeee;
 		}
 
 			#footer > section:first-child {
@@ -4220,7 +4220,7 @@ input, select, textarea {
 
 				#footer > section.split > section {
 					padding: 3rem 4rem 1rem 4rem ;
-					border-top: solid 2px #e2e2e2;
+					border-top: solid 2px #eeeeee;
 				}
 
 					#footer > section.split > section:first-child {
